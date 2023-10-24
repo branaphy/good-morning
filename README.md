@@ -37,6 +37,12 @@ Use praat, python, R and other tools to analyze the participants' recorded speec
 Through data visualization, we found that there is a significant difference in VSA values ​​in the morning and evening. The VSA values ​​are lower in the morning and become significantly larger at night. The difference in Speech Rate is smaller. However, the Speech Rate at night is generally higher than in the morning.
 
 (add some pictures)
+![Brandi](https://github.com/branaphy/good-morning/assets/144012055/80a15a88-d2fb-49eb-8414-f3943d66181b)
+![Xueying](https://github.com/branaphy/good-morning/assets/144012055/dd3c35b7-af3d-4f65-b2b5-5054436dc6c3)
+![Yi](https://github.com/branaphy/good-morning/assets/144012055/7e79a066-a53a-42e0-bafe-a517c44c5fb9)
+![Yilan](https://github.com/branaphy/good-morning/assets/144012055/02e3a9aa-ba6c-442b-8516-5e9952999c7b)
+
+
 
 
 
