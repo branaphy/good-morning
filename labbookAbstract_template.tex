@@ -16,18 +16,19 @@
 % \documentclass[abstract-main.tex]{subfiles} 
 \begin{document}
 %
-\title{Abstract Template Title}
+\title{Morning Mist vs. Evening Clarity: A Comparative Study of Vowel Space Area and Speech Rate}
 %
-\titlerunning{Abbreviated paper title}
+\titlerunning{A Comparative Study of Vowel Space Area and Speech Rate}
 % If the paper title is too long for the running head, you can set
 % an abbreviated paper title here
 %
-\author{First Author\inst{1} \and
-Second Author\inst{1} \and
-Third Author\inst{1} \and 
-Fourth Author\inst{1}}
+\author{Brandi Hongell\inst{1} \and
+Yi Lei\inst{1} \and
+Xueying Liu\inst{1} \and 
+Page Ouyang\inst{1} \and
+Yilan Wei\inst{1}}
 %
-\authorrunning{Author1, Author2, Author3, Author4}
+\authorrunning{B. Hongell, Y. Lei, X. Liu, P. Ouyang, Y. Wei}
 % First names are abbreviated in the running head.
 % If there are more than two authors, 'et al.' is used.
 %
@@ -39,23 +40,47 @@ Fourth Author\inst{1}}
 %
 \section*{Abstract}
 \subsection*{Background}
-This is a simple  one-page abstract template. Please try keep your abstract length at one page.  The abstract should be in English. If you want to include images or tables, keep the length of the abstract at two page length. The References are not mandatory (unless you have them). For citations of references, 
-In \cite{einstein} Einstein....
-another example of citing is \cite{gervain2013prosody}
+\indent Fatigue and its impact on cognitive functions have been subjects of extensive research over the years. The state of tiredness, 
+often influenced by the circadian rhythm, can significantly affect an individual’s motor and cognitive abilities 
+\cite{zhang2015influence}, thereby potentially altering the acoustic properties of speech.
+
+The motivation behind this study stems from the curiosity to explore how "morning grogginess" may impact speech production, which could 
+have substantial implications in fields like voice recognition technology, speech pathology, and human-computer interaction. The insights 
+garnered from this study could significantly contribute to real-world applications, notably in the realm of fatigue/tiredness 
+detection technologies. Understanding how speech parameters may be altered by tiredness creates foundational knowledge for developing 
+fatigue/tiredness detection systems, particularly for drivers and machine operators. Such advancements could be pivotal in enhancing road 
+safety by alerting drivers of fatigue in real-time, thereby reducing the likelihood of fatigue-related accidents. 
+
+Additionally, the findings could fuel the creation of more adaptive voice recognition systems that account for variations in 
+speech due to differing levels of alertness, such as smart home systems. In a time where voice-activated systems are becoming increasingly 
+common in our daily lives, tailoring these technologies to accurately respond to speech, regardless of the user's state of tiredness, is 
+inevitable and imperative.
 
 % the environments 'definition', 'lemma', 'proposition', 'corollary',
 % 'remark', and 'example' are defined in the LLNCS documentclass as well.
 %
 
 \subsection*{Methods}
-Here comes the methods part.
+Each of the authors recorded themselves speaking the same phrase, twice per day, for three consecutive days. The recordings were made on 
+each respective author's cell phone. The first recording was made immediately upon waking, and the second was made at 20:00. The time 
+immediately after waking was chosen as a reliable control for tired speech, and 16:00 was chosen as the reliable control for alert speech.
 
-\noindent Displayed equations are centered and set on a separate
-line.
-\begin{equation}
-x + y = z
-\end{equation}
+The control phrase was: "\textbf{Ah,} good morning! I'm going to \textbf{brew} a cup of \textbf{coffee}." This phrase was chosen for
+several reasons:
+\begin{itemize}
+    \item The phrase offers a relation to the abstract topic.
+    \item The phrase offers multiple vowel sounds.
+    \item The length of the phrase is brief, yet long enough to accurately measure the speech rate.
+\end{itemize}
 
+After collecting the recordings, the data was measured to analyze patterns in two specific areas:
+\begin{itemize}
+    \item Vowel space area in vowels a, i, and  u.
+    \item Overall speech rate.
+\end{itemize}
+
+The measurement of vowel space area was computed with an R script \cite{Rscript}, and the measurement of speech rate was calculated using 
+a PRAAT script \cite{praatscript}. 
 \subsection*{Results}
 
 Here comes the results part.
@@ -63,13 +88,12 @@ Here comes the results part.
 \subsection*{Conclusion}
 Here comes the results part.
 
-\keywords{First keyword  \and Second keyword \and Another keyword.}
+\keywords{Tiredness  \and Fatigue \and Speech Rate  \and Vowel Space Area}
 
 \subsection*{Authors' contributions}
-Author 1 did this and this
-Author 2 did this and this
-Author 3 did this and this
-Author 4 did this and this
+Each author participated in data collection and methodology. Xueying compiled the final plots using each author's data. Page and Xueying
+prepared the presentation. Yilan, Brandi, and Yi presented the abstract. Yilan assisted in writing the methodology and introduction. Each
+author contributed to the conclusion. Brandi prepared the GitHub repository and compiled the LaTeX document.
 %
 % ---- Bibliography ----
 %
@@ -78,6 +102,8 @@ Author 4 did this and this
 %
 \bibliographystyle{refs-style}
 \bibliography{refs}
+
 %
 
 \end{document}
+
