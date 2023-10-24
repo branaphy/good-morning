@@ -42,13 +42,7 @@ VSA changes reflect speech intelligibility in the early morning and evening. A s
 2. Speech rate and daytime energy difference:
 The difference in Speech Rate may be related to the individual's life rhythm and energy level. Slower speech rates in the morning may reflect a lower energy state upon awakening, in which the laryngeal muscles are tense, resulting in slower articulation. In the evening, as the day progresses, the individual may be more active, with a slight increase in speech rate.
 
-![image](https://github.com/branaphy/good-morning/assets/144012055/6625f787-999a-46d9-8c91-2464c5425bf4)
-<img width="695" alt="image" src="https://github.com/branaphy/good-morning/assets/144012055/75752499-ea0f-43b4-981c-aea42e6bdfb1">
 
-VSA
-morning 305227.1
-
-night 256133.3 
 
 
 
