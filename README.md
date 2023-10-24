@@ -36,16 +36,20 @@ Use praat to get the speech rate and the F1 and F2 values for each vowel. Use st
 
 Through data visualization, we found significant differences in speech rates in the morning and evening. The speech rate is lower in the morning and obviously increases in the evening. The same was true for each participant's speech rate graph.
 
+![speech_rate](https://github.com/branaphy/good-morning/assets/144012055/c2523695-ba0c-42ac-9b3b-a619600560e0)
 ![Brandi](https://github.com/branaphy/good-morning/assets/144012055/80a15a88-d2fb-49eb-8414-f3943d66181b)
 ![Xueying](https://github.com/branaphy/good-morning/assets/144012055/dd3c35b7-af3d-4f65-b2b5-5054436dc6c3)
 ![Yi](https://github.com/branaphy/good-morning/assets/144012055/7e79a066-a53a-42e0-bafe-a517c44c5fb9)
 ![Yilan](https://github.com/branaphy/good-morning/assets/144012055/02e3a9aa-ba6c-442b-8516-5e9952999c7b)
 ![Page](https://github.com/branaphy/good-morning/assets/144012055/b199b099-0eb2-4dba-b4cd-d60c27d276f5)
+
+Looking at the vowel space area plot, the VSA statistic does not seem to have a significant relationship between morning and evening. Two people had higher VSA in the morning and lower VSA in the evening. The other three have the opposite. And the individual differences are obvious. Xueying's VSA value is significantly higher than everyone else's, and Page's is too low. Therefore we do not think there is a relationship between the time variations between morning and evening with VSA.
+
 ![VSA](https://github.com/branaphy/good-morning/assets/144012055/1ab3b691-2c86-48d4-ad8b-dc4c61385734)
 
 
 
-![speech_rate](https://github.com/branaphy/good-morning/assets/144012055/c2523695-ba0c-42ac-9b3b-a619600560e0)
+
 
 
 
