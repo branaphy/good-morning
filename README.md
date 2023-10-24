@@ -41,6 +41,8 @@ Through data visualization, we found significant differences in speech rates in 
 ![Yi](https://github.com/branaphy/good-morning/assets/144012055/7e79a066-a53a-42e0-bafe-a517c44c5fb9)
 ![Yilan](https://github.com/branaphy/good-morning/assets/144012055/02e3a9aa-ba6c-442b-8516-5e9952999c7b)
 ![Page](https://github.com/branaphy/good-morning/assets/144012055/b199b099-0eb2-4dba-b4cd-d60c27d276f5)
+![VSA](https://github.com/branaphy/good-morning/assets/144012055/1ab3b691-2c86-48d4-ad8b-dc4c61385734)
+
 
 
 ![speech_rate](https://github.com/branaphy/good-morning/assets/144012055/c2523695-ba0c-42ac-9b3b-a619600560e0)
