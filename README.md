@@ -30,7 +30,7 @@ Each participant will be asked to read specific short sentences at two time poin
 Participants will be asked to conduct voice recordings at designated time points to ensure that the recording conditions are relatively consistent. Everyone has submitted 6 audio files in wav format on github.
 
 4. Data analysis:
-Use praat to get the speech rate and the F1 and F2 values for each vowel. Use statistical methods and create data visualizations in R. We compared morning and evening speech data for different participants to detect whether there were significant differences.
+Use praat to get the speech rate and the F1 and F2 values for each vowel. Use statistical methods and create data visualizations in R. We compared morning and evening speech data for different participants to detect whether there were significant differences. The script to analyze VSA is available here https://search.r-project.org/CRAN/refmans/phonR/html/vowelSpaceArea.html
 
 ## Results
 
@@ -43,7 +43,7 @@ Through data visualization, we found significant differences in speech rates in 
 ![Yilan](https://github.com/branaphy/good-morning/assets/144012055/02e3a9aa-ba6c-442b-8516-5e9952999c7b)
 ![Page](https://github.com/branaphy/good-morning/assets/144012055/b199b099-0eb2-4dba-b4cd-d60c27d276f5)
 
-Looking at the vowel space area plot, the VSA statistic does not seem to have a significant relationship between morning and evening. Two people had higher VSA in the morning and lower VSA in the evening. The other three have the opposite. And the individual differences are obvious. Xueying's VSA value is significantly higher than everyone else's, and Page's is too low. Therefore we do not think there is a relationship between the time variations between morning and evening with VSA.
+Looking at the vowel space area plot, the VSA statistic does not seem to have a significant relationship between morning and evening. Three people had higher VSA in the morning and lower VSA in the evening. The other two have the opposite. And the individual differences are obvious. Xueying's VSA value is significantly higher than everyone else's, and Page's is too low. Therefore we do not think there is a relationship between the time variations between morning and evening with VSA.
 
 ![VSA](https://github.com/branaphy/good-morning/assets/144012055/1ab3b691-2c86-48d4-ad8b-dc4c61385734)
 
