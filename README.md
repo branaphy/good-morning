@@ -66,7 +66,7 @@ The difference in Speech Rate may be related to the individual's life rhythm and
 
 In conclusion, XXXXXX
 
-Contribution
+## Contribution
 All authors of the project participated in the discussion on project goals, Brandi proposed the idea and Page proposed the sentence of the experiment. Everyone participated in the experiment and processed the respective audio data via Praat to get the formant table, vowel space area and speech rate. 
 Brandi created a repository in GitHub to store the data and wrote introductions, methods and results sections.
 Xueying edited and ran the R-file used to make unified plots of speech rate and Vowel Space Area to better present. 
