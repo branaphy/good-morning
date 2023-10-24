@@ -41,6 +41,9 @@ Through data visualization, we found that there is a significant difference in V
 ![Xueying](https://github.com/branaphy/good-morning/assets/144012055/dd3c35b7-af3d-4f65-b2b5-5054436dc6c3)
 ![Yi](https://github.com/branaphy/good-morning/assets/144012055/7e79a066-a53a-42e0-bafe-a517c44c5fb9)
 ![Yilan](https://github.com/branaphy/good-morning/assets/144012055/02e3a9aa-ba6c-442b-8516-5e9952999c7b)
+![Page](https://github.com/branaphy/good-morning/assets/144012055/b199b099-0eb2-4dba-b4cd-d60c27d276f5)
+
+
 ![speech_rate](https://github.com/branaphy/good-morning/assets/144012055/c2523695-ba0c-42ac-9b3b-a619600560e0)
 
 
