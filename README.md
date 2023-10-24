@@ -34,17 +34,18 @@ Use praat, python, R and other tools to analyze the participants' recorded speec
 
 ## Results
 
-Through data visualization, we found that there is a significant difference in VSA values ​​in the morning and evening. The VSA values ​​are lower in the morning and become significantly larger at night. The difference in Speech Rate is smaller. However, the Speech Rate at night is generally higher than in the morning. Based on the results, we guessed the reasons:
+Through data visualization, we found that there is a significant difference in VSA values ​​in the morning and evening. The VSA values ​​are lower in the morning and become significantly larger at night. The difference in Speech Rate is smaller. However, the Speech Rate at night is generally higher than in the morning.
 
+(add some pictures)
+
+
+
+## Discussion and Conclusions
+Based on the results, we guessed the reasons:
 1. Changes in biological clock rhythm and speech characteristics:
 VSA changes reflect speech intelligibility in the early morning and evening. A smaller VSA may indicate a more ambiguous or restricted vowel, while a larger VSA may be associated with clearer vowel pronunciation. The vowel space area (VSA) is smaller in the morning, which may be related to the influence of the human body clock rhythm. Morning is the time when the body's body temperature and muscle activity are lowest, which may cause the throat muscles to be tighter, thereby limiting the clarity of vowels and resulting in a smaller VSA. At night, as body temperature rises and muscle activity increases, sound clarity may improve, resulting in a larger VSA.
 
 2. Speech rate and daytime energy difference:
 The difference in Speech Rate may be related to the individual's life rhythm and energy level. Slower speech rates in the morning may reflect a lower energy state upon awakening, in which the laryngeal muscles are tense, resulting in slower articulation. In the evening, as the day progresses, the individual may be more active, with a slight increase in speech rate.
 
-
-
-
-
-
-## Discussion and Conclusions
+In conclusion, XXXXXX
