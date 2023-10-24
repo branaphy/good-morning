@@ -19,12 +19,16 @@ effective and reliable under varying physiological states. The potential extensi
 
 ## Methods
 We conduct research in the following ways:
+
 1，Participant Screening:
 We have 5 participants. The gender composition is 1 male and 4 females. The nationality composition is 1 American and 4 Chinese.
+
 2.Experimental design: 
 Each participant will be asked to read specific short sentences at two time points over three days. The short sentence text is “Ah, good morning, I’m going to brew a cup of coffee.” The first time point will be set shortly after they wake up to capture morning speech expressions, while the second time point will be set at 8:00 pm to capture evening speech expressions. These two time points were chosen to compare speech performance in the morning and evening.
+
 3.Recording and data collection: 
 Participants will be asked to conduct voice recordings at designated time points to ensure that the recording conditions are relatively consistent.
+
 4. Data analysis: 
 Use praat, python, R and other tools to analyze the participants' recorded speech, and extract related measures of speech speed and vowel space area. We compared morning and evening speech data to detect whether there were significant differences. Use statistical methods and data visualization tools to interpret results.
 
