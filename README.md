@@ -65,3 +65,11 @@ VSA changes reflect speech intelligibility in the early morning and evening. A s
 The difference in Speech Rate may be related to the individual's life rhythm and energy level. Slower speech rates in the morning may reflect a lower energy state upon awakening, in which the laryngeal muscles are tense, resulting in slower articulation. In the evening, as the day progresses, the individual may be more active, with a slight increase in speech rate.
 
 In conclusion, XXXXXX
+
+Contribution
+All authors of the project participated in the discussion on project goals, Brandi proposed the idea and Page proposed the sentence of the experiment. Everyone participated in the experiment and processed the respective audio data via Praat to get the formant table, vowel space area and speech rate. 
+Brandi created a repository in GitHub to store the data and wrote introductions, methods and results sections.
+Xueying edited and ran the R-file used to make unified plots of speech rate and Vowel Space Area to better present. 
+Yilan wrote the methods, results and wrote the first version of the abstract.
+Page and Xueying worked for the slides and Yi, Yilan, Brandi were responsible for presenting it. 
+All authors together rewrote the abstract into the final version.
