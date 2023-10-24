@@ -20,23 +20,22 @@ effective and reliable under varying physiological states. The potential extensi
 ## Methods
 We conduct research in the following ways:
 
-1. Participant Screening:
+1. Participant:
 We have 5 participants. The gender composition is 1 male and 4 females. The nationality composition is 1 American and 4 Chinese.
 
 2. Experimental design: 
 Each participant will be asked to read specific short sentences at two time points over three days. The short sentence text is “Ah, good morning, I’m going to brew a cup of coffee.” The first time point will be set shortly after they wake up to capture morning speech expressions, while the second time point will be set at 8:00 pm to capture evening speech expressions. These two time points were chosen to compare speech performance in the morning and evening.
 
 3. Recording and data collection: 
-Participants will be asked to conduct voice recordings at designated time points to ensure that the recording conditions are relatively consistent.
+Participants will be asked to conduct voice recordings at designated time points to ensure that the recording conditions are relatively consistent. Everyone has submitted 6 audio files in wav format on github.
 
 4. Data analysis:
-Use praat, python, R and other tools to analyze the participants' recorded speech, and extract related measures of speech speed and vowel space area. We compared morning and evening speech data to detect whether there were significant differences. Use statistical methods and data visualization tools to interpret results.
+Use praat to get the speech rate and the F1 and F2 values for each vowel. Use statistical methods and create data visualizations in R. We compared morning and evening speech data for different participants to detect whether there were significant differences.
 
 ## Results
 
-Through data visualization, we found that there is a significant difference in VSA values ​​in the morning and evening. The VSA values ​​are lower in the morning and become significantly larger at night. The difference in Speech Rate is smaller. However, the Speech Rate at night is generally higher than in the morning.
+Through data visualization, we found significant differences in speech rates in the morning and evening. The speech rate is lower in the morning and obviously increases in the evening. The same was true for each participant's speech rate graph.
 
-(add some pictures)
 ![Brandi](https://github.com/branaphy/good-morning/assets/144012055/80a15a88-d2fb-49eb-8414-f3943d66181b)
 ![Xueying](https://github.com/branaphy/good-morning/assets/144012055/dd3c35b7-af3d-4f65-b2b5-5054436dc6c3)
 ![Yi](https://github.com/branaphy/good-morning/assets/144012055/7e79a066-a53a-42e0-bafe-a517c44c5fb9)
